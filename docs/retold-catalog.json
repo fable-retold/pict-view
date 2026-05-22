@@ -1,104 +1,97 @@
 {
-	"Generated": "2026-04-10T17:26:50.124Z",
+	"Generated": "2026-05-22T05:47:28.391Z",
+	"Mode": "module",
 	"GitHubOrg": "stevenvelozo",
 	"DefaultBranch": "master",
-	"Groups": [
-		{
-			"Name": ".github",
-			"Key": ".github",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "workflows",
-					"Repo": "workflows",
-					"Group": ".github",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Dist",
-			"Key": "dist",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "indoctrinate_content_staging",
-					"Repo": "indoctrinate_content_staging",
-					"Group": "dist",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Docs",
-			"Key": "docs",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "css",
-					"Repo": "css",
-					"Group": "docs",
-					"Branch": "master",
-					"HasDocs": true,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": [
-						"css/docuserve.css"
-					]
-				}
-			]
-		},
-		{
-			"Name": "Example_applications",
-			"Key": "example_applications",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "historic_events_example",
-					"Repo": "historic_events_example",
-					"Group": "example_applications",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				},
-				{
-					"Name": "simple",
-					"Repo": "simple",
-					"Group": "example_applications",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Types",
-			"Key": "types",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "source",
-					"Repo": "source",
-					"Group": "types",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		}
-	]
+	"Module": {
+		"Name": "pict-view",
+		"Repo": "pict-view",
+		"Group": "",
+		"Branch": "master",
+		"HasDocs": true,
+		"HasCover": true,
+		"Sidebar": [
+			{
+				"Title": "Getting Started",
+				"Children": [
+					{
+						"Title": "Introduction",
+						"Path": "README.md"
+					},
+					{
+						"Title": "Pict Views",
+						"Path": "Pict-Views.md"
+					},
+					{
+						"Title": "Renderables",
+						"Path": "Pict%20View%20Renderables.md"
+					}
+				]
+			},
+			{
+				"Title": "Examples",
+				"Children": [
+					{
+						"Title": "Historical Events App",
+						"Path": "Historical%20Events%20Example%20App.md"
+					}
+				]
+			},
+			{
+				"Title": "Customization",
+				"Children": [
+					{
+						"Title": "Configuration",
+						"Path": "configuration.md"
+					},
+					{
+						"Title": "Themes & Styling",
+						"Path": "themes.md"
+					},
+					{
+						"Title": "Custom Navbar",
+						"Path": "custom-navbar.md"
+					}
+				]
+			},
+			{
+				"Title": "Reference",
+				"Children": [
+					{
+						"Title": "Resources",
+						"Path": "resources.md"
+					},
+					{
+						"Title": "Contributing",
+						"Path": "contributing.md"
+					},
+					{
+						"Title": "Changelog",
+						"Path": "changelog.md"
+					}
+				]
+			}
+		],
+		"DocFiles": [
+			".nojekyll",
+			"Historical Events Example App.md",
+			"Pict View Renderables.md",
+			"Pict-Views.md",
+			"README.md",
+			"_brand.json",
+			"_cover.md",
+			"_sidebar.md",
+			"_version.json",
+			"changelog.md",
+			"configuration.md",
+			"contributing.md",
+			"custom-navbar.md",
+			"index.html",
+			"resources.md",
+			"retold-catalog.json",
+			"retold-keyword-index.json",
+			"themes.md"
+		]
+	},
+	"Groups": []
 }
