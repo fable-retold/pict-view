@@ -108,7 +108,7 @@ If upgrading from earlier versions:
 
 ## Contributing
 
-See the [Contributing Guide](https://github.com/stevenvelozo/pict-view/blob/master/CONTRIBUTING.md) for details on:
+See the [Contributing Guide](https://github.com/fable-retold/pict-view/blob/master/CONTRIBUTING.md) for details on:
 
 - Setting up a development environment
 - Running tests
@@ -117,6 +117,6 @@ See the [Contributing Guide](https://github.com/stevenvelozo/pict-view/blob/mast
 
 ## Support
 
-- **Bugs**: [GitHub Issues](https://github.com/stevenvelozo/pict-view/issues)
-- **Questions**: [GitHub Discussions](https://github.com/stevenvelozo/pict-view/discussions)
+- **Bugs**: [GitHub Issues](https://github.com/fable-retold/pict-view/issues)
+- **Questions**: [GitHub Discussions](https://github.com/fable-retold/pict-view/discussions)
 - **Security**: Contact maintainers directly for security issues

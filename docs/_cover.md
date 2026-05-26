@@ -7,5 +7,5 @@
 - Powerful renderable and template system
 - Seamless integration with Fable, Orator, and Meadow
 
-[GitHub](https://github.com/stevenvelozo/pict-view)
+[GitHub](https://github.com/fable-retold/pict-view)
 [Get Started](#pict-view)

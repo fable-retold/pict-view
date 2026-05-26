@@ -28,12 +28,12 @@ To add a top navigation bar, create a `_navbar.md` file:
 
 ```markdown
 - [Home](/)
-- [GitHub](https://github.com/stevenvelozo/pict-view)
+- [GitHub](https://github.com/fable-retold/pict-view)
 - [NPM](https://www.npmjs.com/package/pict-view)
 
 - Related
-  - [Pict](https://github.com/stevenvelozo/pict)
-  - [Fable](https://github.com/stevenvelozo/fable)
+  - [Pict](https://github.com/fable-retold/pict)
+  - [Fable](https://github.com/fable-retold/fable)
 ```
 
 Then enable it in `index.html`:

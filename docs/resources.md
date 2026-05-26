@@ -6,29 +6,29 @@ A curated list of resources, tools, and projects related to Pict-View and the Pi
 
 ### Core Libraries
 
-- [Pict](https://github.com/stevenvelozo/pict) - The main Pict framework for building applications
-- [Pict-View](https://github.com/stevenvelozo/pict-view) - View base class (this library)
-- [Fable](https://github.com/stevenvelozo/fable) - Service provider framework that powers Pict
-- [Fable-ServiceProviderBase](https://github.com/stevenvelozo/fable-serviceproviderbase) - Base class for Fable services
+- [Pict](https://github.com/fable-retold/pict) - The main Pict framework for building applications
+- [Pict-View](https://github.com/fable-retold/pict-view) - View base class (this library)
+- [Fable](https://github.com/fable-retold/fable) - Service provider framework that powers Pict
+- [Fable-ServiceProviderBase](https://github.com/fable-retold/fable-serviceproviderbase) - Base class for Fable services
 
 ### Related Pict Packages
 
-- [Pict-Application](https://github.com/stevenvelozo/pict-application) - Application wrapper for Pict
-- [Pict-Provider](https://github.com/stevenvelozo/pict-provider) - Data providers for Pict
-- [Pict-Template](https://github.com/stevenvelozo/pict-template) - Template engine for Pict
-- [Pict-ContentAssignment](https://github.com/stevenvelozo/pict-content-assignment) - DOM content assignment utilities
-- [Pict-DataProvider](https://github.com/stevenvelozo/pict-data-provider) - Data access layer
+- [Pict-Application](https://github.com/fable-retold/pict-application) - Application wrapper for Pict
+- [Pict-Provider](https://github.com/fable-retold/pict-provider) - Data providers for Pict
+- [Pict-Template](https://github.com/fable-retold/pict-template) - Template engine for Pict
+- [Pict-ContentAssignment](https://github.com/fable-retold/pict-content-assignment) - DOM content assignment utilities
+- [Pict-DataProvider](https://github.com/fable-retold/pict-data-provider) - Data access layer
 
 ### Backend Ecosystem
 
-- [Meadow](https://github.com/stevenvelozo/meadow) - Data access layer for Fable
-- [Orator](https://github.com/stevenvelozo/orator) - Query building and execution
-- [Foxhound](https://github.com/stevenvelozo/foxhound) - Query parser and generator
+- [Meadow](https://github.com/fable-retold/meadow) - Data access layer for Fable
+- [Orator](https://github.com/fable-retold/orator) - Query building and execution
+- [Foxhound](https://github.com/fable-retold/foxhound) - Query parser and generator
 
 ## Documentation
 
-- [Pict-View Documentation](https://stevenvelozo.github.io/pict-view/) - This documentation site
-- [Pict Documentation](https://stevenvelozo.github.io/pict/) - Main Pict framework docs
+- [Pict-View Documentation](https://fable-retold.github.io/pict-view/) - This documentation site
+- [Pict Documentation](https://fable-retold.github.io/pict/) - Main Pict framework docs
 
 ## Learning Resources
 
@@ -47,8 +47,8 @@ A curated list of resources, tools, and projects related to Pict-View and the Pi
 
 ### Getting Help
 
-- [GitHub Issues](https://github.com/stevenvelozo/pict-view/issues) - Report bugs or request features
-- [GitHub Discussions](https://github.com/stevenvelozo/pict-view/discussions) - Ask questions and share ideas
+- [GitHub Issues](https://github.com/fable-retold/pict-view/issues) - Report bugs or request features
+- [GitHub Discussions](https://github.com/fable-retold/pict-view/discussions) - Ask questions and share ideas
 
 ### Contributing
 
@@ -64,7 +64,7 @@ We welcome contributions! Here's how you can help:
 
 ### Development
 
-- [Quackage](https://github.com/stevenvelozo/quackage) - Build tool used by Pict projects
+- [Quackage](https://github.com/fable-retold/quackage) - Build tool used by Pict projects
 - [Browserify](http://browserify.org/) - Bundle Pict-View for browser use
 
 ### Testing
@@ -95,4 +95,4 @@ We welcome contributions! Here's how you can help:
 
 ## License
 
-Pict-View is released under the [MIT License](https://github.com/stevenvelozo/pict-view/blob/master/LICENSE).
+Pict-View is released under the [MIT License](https://github.com/fable-retold/pict-view/blob/master/LICENSE).
