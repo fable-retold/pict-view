@@ -32,8 +32,8 @@ To add a top navigation bar, create a `_navbar.md` file:
 - [NPM](https://www.npmjs.com/package/pict-view)
 
 - Related
-  - [Pict](https://github.com/fable-retold/pict)
-  - [Fable](https://github.com/fable-retold/fable)
+  - [Pict](https://fable-retold.github.io/pict/)
+  - [Fable](https://fable-retold.github.io/fable/)
 ```
 
 Then enable it in `index.html`:

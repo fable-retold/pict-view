@@ -82,7 +82,7 @@ Views follow a predictable lifecycle: Initialize -> Solve -> Render -> Marshal. 
 
 ## Related Packages
 
-- [pict](https://github.com/fable-retold/pict) - Core Pict framework
-- [pict-application](https://github.com/fable-retold/pict-application) - Application base class
-- [pict-provider](https://github.com/fable-retold/pict-provider) - Provider base class
-- [fable](https://github.com/fable-retold/fable) - Service provider framework
+- [pict](https://fable-retold.github.io/pict/) - Core Pict framework
+- [pict-application](https://fable-retold.github.io/pict-application/) - Application base class
+- [pict-provider](https://fable-retold.github.io/pict-provider/) - Provider base class
+- [fable](https://fable-retold.github.io/fable/) - Service provider framework

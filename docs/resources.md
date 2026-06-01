@@ -6,24 +6,24 @@ A curated list of resources, tools, and projects related to Pict-View and the Pi
 
 ### Core Libraries
 
-- [Pict](https://github.com/fable-retold/pict) - The main Pict framework for building applications
+- [Pict](https://fable-retold.github.io/pict/) - The main Pict framework for building applications
 - [Pict-View](https://github.com/fable-retold/pict-view) - View base class (this library)
-- [Fable](https://github.com/fable-retold/fable) - Service provider framework that powers Pict
-- [Fable-ServiceProviderBase](https://github.com/fable-retold/fable-serviceproviderbase) - Base class for Fable services
+- [Fable](https://fable-retold.github.io/fable/) - Service provider framework that powers Pict
+- [Fable-ServiceProviderBase](https://fable-retold.github.io/fable-serviceproviderbase/) - Base class for Fable services
 
 ### Related Pict Packages
 
-- [Pict-Application](https://github.com/fable-retold/pict-application) - Application wrapper for Pict
-- [Pict-Provider](https://github.com/fable-retold/pict-provider) - Data providers for Pict
-- [Pict-Template](https://github.com/fable-retold/pict-template) - Template engine for Pict
+- [Pict-Application](https://fable-retold.github.io/pict-application/) - Application wrapper for Pict
+- [Pict-Provider](https://fable-retold.github.io/pict-provider/) - Data providers for Pict
+- [Pict-Template](https://fable-retold.github.io/pict-template/) - Template engine for Pict
 - [Pict-ContentAssignment](https://github.com/fable-retold/pict-content-assignment) - DOM content assignment utilities
 - [Pict-DataProvider](https://github.com/fable-retold/pict-data-provider) - Data access layer
 
 ### Backend Ecosystem
 
-- [Meadow](https://github.com/fable-retold/meadow) - Data access layer for Fable
-- [Orator](https://github.com/fable-retold/orator) - Query building and execution
-- [Foxhound](https://github.com/fable-retold/foxhound) - Query parser and generator
+- [Meadow](https://fable-retold.github.io/meadow/) - Data access layer for Fable
+- [Orator](https://fable-retold.github.io/orator/) - Query building and execution
+- [Foxhound](https://fable-retold.github.io/foxhound/) - Query parser and generator
 
 ## Documentation
 
@@ -64,7 +64,7 @@ We welcome contributions! Here's how you can help:
 
 ### Development
 
-- [Quackage](https://github.com/fable-retold/quackage) - Build tool used by Pict projects
+- [Quackage](https://fable-retold.github.io/quackage/) - Build tool used by Pict projects
 - [Browserify](http://browserify.org/) - Bundle Pict-View for browser use
 
 ### Testing
