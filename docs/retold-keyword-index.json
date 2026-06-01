@@ -1,5 +1,5 @@
 {
-	"Generated": "2026-05-26T21:14:53.098Z",
+	"Generated": "2026-06-01T03:50:04.087Z",
 	"Mode": "module",
 	"DocumentCount": 11,
 	"LunrIndex": {
@@ -2518,7 +2518,7 @@
 					36,
 					1.187,
 					42,
-					0.443,
+					0.45,
 					43,
 					1.045,
 					68,
@@ -2802,8 +2802,6 @@
 					684,
 					2.003,
 					685,
-					2.003,
-					686,
 					2.003
 				]
 			],
@@ -2972,6 +2970,8 @@
 					1.973,
 					657,
 					1.626,
+					686,
+					2.156,
 					687,
 					2.156,
 					688,
@@ -2985,47 +2985,47 @@
 					692,
 					2.156,
 					693,
-					2.156,
-					694,
 					3.33,
+					694,
+					2.156,
 					695,
 					2.156,
 					696,
-					2.156,
-					697,
 					2.931,
-					698,
+					697,
 					2.156,
+					698,
+					2.931,
 					699,
 					2.931,
 					700,
-					2.931,
-					701,
 					2.156,
+					701,
+					2.931,
 					702,
 					2.931,
 					703,
-					2.931,
+					2.156,
 					704,
 					2.156,
 					705,
-					2.156,
+					2.931,
 					706,
 					2.931,
 					707,
-					2.931,
-					708,
 					2.156,
-					709,
+					708,
 					2.931,
+					709,
+					2.156,
 					710,
 					2.156,
 					711,
 					2.156,
 					712,
-					2.156,
-					713,
 					2.931,
+					713,
+					2.156,
 					714,
 					2.156,
 					715,
@@ -3039,8 +3039,6 @@
 					719,
 					2.156,
 					720,
-					2.156,
-					721,
 					2.156
 				]
 			]
@@ -3068,7 +3066,7 @@
 			[
 				"0",
 				{
-					"_index": 696,
+					"_index": 695,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -3144,7 +3142,7 @@
 			[
 				"100",
 				{
-					"_index": 697,
+					"_index": 696,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -3168,7 +3166,7 @@
 			[
 				"300",
 				{
-					"_index": 699,
+					"_index": 698,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -3192,7 +3190,7 @@
 			[
 				"500",
 				{
-					"_index": 700,
+					"_index": 699,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -3204,7 +3202,7 @@
 			[
 				"700",
 				{
-					"_index": 702,
+					"_index": 701,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -3228,7 +3226,7 @@
 			[
 				"900",
 				{
-					"_index": 703,
+					"_index": 702,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -4006,7 +4004,7 @@
 			[
 				"bem",
 				{
-					"_index": 709,
+					"_index": 708,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -4346,7 +4344,7 @@
 			[
 				"capabl",
 				{
-					"_index": 687,
+					"_index": 686,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -4435,7 +4433,7 @@
 			[
 				"central",
 				{
-					"_index": 720,
+					"_index": 719,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -4737,7 +4735,7 @@
 			[
 				"compon",
 				{
-					"_index": 701,
+					"_index": 700,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -4879,7 +4877,7 @@
 			[
 				"conflict",
 				{
-					"_index": 713,
+					"_index": 712,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -5153,7 +5151,7 @@
 			[
 				"correct",
 				{
-					"_index": 721,
+					"_index": 720,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -5204,7 +5202,7 @@
 			[
 				"critic",
 				{
-					"_index": 704,
+					"_index": 703,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -5231,7 +5229,7 @@
 			[
 				"csshash",
 				{
-					"_index": 688,
+					"_index": 687,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -5255,7 +5253,7 @@
 			[
 				"cssprioriti",
 				{
-					"_index": 691,
+					"_index": 690,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -5267,7 +5265,7 @@
 			[
 				"cssprovid",
 				{
-					"_index": 689,
+					"_index": 688,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -5358,7 +5356,7 @@
 			[
 				"dark",
 				{
-					"_index": 706,
+					"_index": 705,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -5587,7 +5585,7 @@
 			[
 				"determin",
 				{
-					"_index": 693,
+					"_index": 692,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -6025,7 +6023,7 @@
 			[
 				"effect",
 				{
-					"_index": 685,
+					"_index": 684,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -6403,7 +6401,7 @@
 			[
 				"express",
 				{
-					"_index": 710,
+					"_index": 709,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -7385,7 +7383,7 @@
 			[
 				"inlin",
 				{
-					"_index": 711,
+					"_index": 710,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -7711,7 +7709,7 @@
 			[
 				"leak",
 				{
-					"_index": 718,
+					"_index": 717,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -7754,18 +7752,6 @@
 					"group": {},
 					"body": {
 						"Pict-Views.md": {}
-					}
-				}
-			],
-			[
-				"leverag",
-				{
-					"_index": 684,
-					"title": {},
-					"module": {},
-					"group": {},
-					"body": {
-						"resources.md": {}
 					}
 				}
 			],
@@ -8117,7 +8103,7 @@
 			[
 				"map",
 				{
-					"_index": 719,
+					"_index": 718,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8158,7 +8144,7 @@
 			[
 				"maximum",
 				{
-					"_index": 715,
+					"_index": 714,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8209,7 +8195,7 @@
 			[
 				"media",
 				{
-					"_index": 708,
+					"_index": 707,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8362,7 +8348,7 @@
 			[
 				"mode",
 				{
-					"_index": 707,
+					"_index": 706,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8412,7 +8398,7 @@
 			[
 				"modular",
 				{
-					"_index": 716,
+					"_index": 715,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8654,7 +8640,7 @@
 			[
 				"numer",
 				{
-					"_index": 692,
+					"_index": 691,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8868,7 +8854,7 @@
 			[
 				"organ",
 				{
-					"_index": 686,
+					"_index": 685,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8880,7 +8866,7 @@
 			[
 				"origin",
 				{
-					"_index": 690,
+					"_index": 689,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -8965,7 +8951,7 @@
 			[
 				"overrid",
 				{
-					"_index": 694,
+					"_index": 693,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -9769,7 +9755,7 @@
 			[
 				"rang",
 				{
-					"_index": 695,
+					"_index": 694,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -10212,7 +10198,7 @@
 			[
 				"reset",
 				{
-					"_index": 698,
+					"_index": 697,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -10446,30 +10432,6 @@
 					"body": {
 						"Historical Events Example App.md": {},
 						"Pict View Renderables.md": {}
-					}
-				}
-			],
-			[
-				"seamless",
-				{
-					"_index": 384,
-					"title": {},
-					"module": {},
-					"group": {},
-					"body": {
-						"_cover.md": {}
-					}
-				}
-			],
-			[
-				"seamlessli",
-				{
-					"_index": 333,
-					"title": {},
-					"module": {},
-					"group": {},
-					"body": {
-						"README.md": {}
 					}
 				}
 			],
@@ -10794,6 +10756,30 @@
 					"group": {},
 					"body": {
 						"Pict-Views.md": {}
+					}
+				}
+			],
+			[
+				"smooth",
+				{
+					"_index": 384,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"smoothli",
+				{
+					"_index": 333,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
 					}
 				}
 			],
@@ -11423,7 +11409,7 @@
 			[
 				"themeabl",
 				{
-					"_index": 705,
+					"_index": 704,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -11499,7 +11485,7 @@
 			[
 				"token",
 				{
-					"_index": 717,
+					"_index": 716,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -11627,7 +11613,7 @@
 			[
 				"truli",
 				{
-					"_index": 712,
+					"_index": 711,
 					"title": {},
 					"module": {},
 					"group": {},
@@ -12271,7 +12257,7 @@
 			[
 				"wise",
 				{
-					"_index": 714,
+					"_index": 713,
 					"title": {},
 					"module": {},
 					"group": {},
