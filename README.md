@@ -1,7 +1,6 @@
 # Pict-View
 
-[![npm version](https://badge.fury.io/js/pict-view.svg)](https://www.npmjs.com/package/pict-view)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[pict-view on npm](https://www.npmjs.com/package/pict-view) | [MIT License](LICENSE)
 
 A flexible View base class for the Pict application framework.
 
