@@ -90,7 +90,7 @@ We welcome contributions! Here's how you can help:
 
 - Keep views focused on single responsibilities
 - Use configuration objects for reusable view definitions
-- Leverage the lifecycle hooks for side effects
+- Use the lifecycle hooks for side effects
 - Organize templates by feature, not by type
 
 ## License

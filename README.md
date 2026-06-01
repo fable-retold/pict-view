@@ -5,7 +5,7 @@
 
 A flexible View base class for the Pict application framework.
 
-Pict-View provides a non-opinionated foundation for building views in web, console, and other applications where the UI is represented as text strings. It integrates seamlessly with the Pict ecosystem including Fable, Orator, and Meadow.
+Pict-View provides a non-opinionated foundation for building views in web, console, and other applications where the UI is represented as text strings. It integrates smoothly with the Pict ecosystem including Fable, Orator, and Meadow.
 
 ## Features
 
