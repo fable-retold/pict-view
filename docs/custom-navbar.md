@@ -73,16 +73,8 @@ Create nested navigation structures for complex documentation:
 
 You can have different sidebars for different sections by placing `_sidebar.md` files in subdirectories:
 
-```
-docs/
-├── _sidebar.md          # Root sidebar
-├── guide/
-│   ├── _sidebar.md      # Guide-specific sidebar
-│   └── intro.md
-└── api/
-    ├── _sidebar.md      # API-specific sidebar
-    └── reference.md
-```
+<!-- bespoke diagram: edit diagrams/page-specific-sidebars.mmd or .hints.json, then: npx pict-renderer-graph build modules/pict/pict-view/docs -->
+![Page-Specific Sidebars](diagrams/page-specific-sidebars.svg)
 
 Enable this with:
 
